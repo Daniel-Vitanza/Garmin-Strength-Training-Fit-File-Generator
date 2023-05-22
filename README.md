@@ -35,6 +35,7 @@ If you want to add some notes for each exercises as in Garmin Connect, just put 
 3)Once finished, just click on the button "Generate Fit File"
 ![image](https://github.com/Daniel-Vitanza/Garmin-Strength-Training-Fit-File-Generator/assets/131000256/a0d86682-f4e1-4e5b-86db-9caa9b88b542)
 4)Your workout fit file can be found in the folder "fit-files". Just copy it to your watch via the usb connection in the folder "Garmin\Workout". Enjoy !
+
 NB: If you have a different workouts, you can save them in different Excel files. For instance, I did that for two workouts A and B in the folder "03 - Examples".
 
 ## Added-Value and Limitations
