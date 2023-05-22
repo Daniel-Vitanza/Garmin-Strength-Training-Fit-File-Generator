@@ -15,10 +15,12 @@ However, after some tinkering with the Garmin Fit File SDK (https://developer.ga
 
 ## Files Structure
 You basically need 2 files and 2 folders in the root:    
--WorkoutCreator.xslm   which is the Excel file to create your workout and launch the VBA macros to create the fit file.  
--FitGenerator.jar      which is the java archive create from a slightly modified Garmin SDK.  
--folder csv-files      where csv files containing the workout will be created (not to use with the watch, they are only backup files for the FitGenerator.jar).  
--folder fit-files      where you will find your fit file freshly generated.  
+| Files/Folders | Description |
+| :------------------ | :----------------------------------------------------------------------------------------------- |
+| WorkoutCreator.xslm | which is the Excel file to create your workout and launch the VBA macros to create the fit file. | 
+| FitGenerator.jar    | which is the java archive create from a slightly modified Garmin SDK. |
+| folder csv-files    | where csv files containing the workout will be created (not to use with the watch, they are only backup files for the FitGenerator.jar). |
+| folder fit-files    | where you will find your fit file freshly generated. |
 
 
 ## How to install ?
