@@ -1,0 +1,111 @@
+﻿Type,Local Number,Message,Field 1,Value 1,Units 1,Field 2,Value 2,Units 2,Field 3,Value 3,Units 3,Field 4,Value 4,Units 4,Field 5,Value 5,Units 5,Field 6,Value 6,Units 6,Field 7,Value 7,Units 7,Field 8,Value 8,Units 8,Field 9,Value 9,Units 9,Field 10,Value 10,Units 10,Field 11,Value 11,Units 11,Field 12,Value 12,Units 12,Field 13,Value 13,Units 13,Field 14,Value 14,Units 14,Field 15,Value 15,Units 15,Field 16,Value 16,Units 16,Field 17,Value 17,Units 17,Field 18,Value 18,Units 18,Field 19,Value 19,Units 19,
+Definition,0,file_id,serial_number,1,,time_created,1,,unknown,1,,manufacturer,1,,product,1,,number,1,,type,1,,
+Data,0,file_id,serial_number,"634642679",,time_created,"1047772701",,manufacturer,"1",,garmin_product,"65534",,type,"5",,,,,,,,
+Definition,0,file_creator,unknown,20,,software_version,1,,hardware_version,1,,unknown,1,,unknown,1,,,,,,,,
+Data,0,file_creator,software_version,"0",,hardware_version,"0",,,,,,,,,,,,,,,,,
+Definition,0,workout,capabilities,1,,wkt_name,32,,unknown,1,,unknown,16,,unknown,160,,num_valid_steps,1,,unknown,1,,unknown,1,,pool_length,1,,sport,1,,unknown,1,,sub_sport,1,,unknown,1,,pool_length_unit,1,,
+Data,0,workout,capabilities,"32",,wkt_name,"FullBody - Beginner - B",,unknown,"0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0",,num_valid_steps,"43",,sport,"10",,sub_sport,"20",,,,,,,,,,,,,,,,,,,,,,,,,,
+Definition,0,workout_step,wkt_step_name,16,,duration_value,1,,target_value,1,,custom_target_value_low,1,,custom_target_value_high,1,,notes,200,,message_index,1,,exercise_category,1,,exercise_name,1,,exercise_weight,1,,weight_display_unit,1,,unknown,1,,duration_type,1,,target_type,1,,intensity,1,,equipment,1,,unknown,1,,unknown,1,,unknown,1,,
+Data,0,workout_step,target_value,"0",,notes,"Mobilisations articulaires",,message_index,"0",,exercise_category,"31",,duration_type,"5",,target_type,"2",,intensity,"2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"15",,target_value,"0",,notes,"Rétraction scapulaire
+Inspirer en descendant
+Expirer en montant",,message_index,"1",,exercise_category,"22",,exercise_name,"69",,duration_type,"29",,target_type,"2",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"60.0",,target_value,"0",,message_index,"2",,duration_type,"0",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_step,"1",,repeat_steps,"3",,message_index,"3",,duration_type,"6",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"8",,target_value,"0",,notes,"Bras droit / gauche
+
+Grande amplitude
+Garder dos contracté et droit
+Inspirer en descendant
+Expirer en montant",,message_index,"4",,exercise_category,"23",,exercise_name,"34",,exercise_weight,"8.0",kg,weight_display_unit,"1",,duration_type,"29",,target_type,"2",,intensity,"2",,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,target_value,"0",,message_index,"5",,duration_type,"5",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"10",,target_value,"0",,notes,"Bras droit / gauche
+
+Grande amplitude
+Garder dos contracté et droit
+Inspirer en descendant
+Expirer en montant",,message_index,"6",,exercise_category,"23",,exercise_name,"34",,exercise_weight,"10.0",kg,weight_display_unit,"1",,duration_type,"29",,target_type,"2",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,target_value,"0",,message_index,"7",,duration_type,"5",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_step,"4",,repeat_steps,"2",,message_index,"8",,duration_type,"6",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"10",,target_value,"0",,notes,"Bras gauche / droit
+
+Grande amplitude
+Garder dos contracté et droit
+Inspirer en descendant
+Expirer en montant",,message_index,"9",,exercise_category,"23",,exercise_name,"34",,exercise_weight,"10.0",kg,weight_display_unit,"1",,duration_type,"29",,target_type,"2",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"90.0",,target_value,"0",,message_index,"10",,duration_type,"0",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_step,"9",,repeat_steps,"6",,message_index,"11",,duration_type,"6",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"10",,target_value,"0",,notes,"45 degrés
+Inspirer en descendant
+Expirer en montant",,message_index,"12",,exercise_category,"9",,exercise_name,"11",,duration_type,"29",,target_type,"2",,intensity,"2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,target_value,"0",,message_index,"13",,duration_type,"5",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"15",,target_value,"0",,message_index,"14",,exercise_category,"9",,exercise_name,"11",,exercise_weight,"2.0",kg,weight_display_unit,"1",,duration_type,"29",,target_type,"2",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"60.0",,target_value,"0",,message_index,"15",,duration_type,"0",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_step,"14",,repeat_steps,"3",,message_index,"16",,duration_type,"6",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"8",,target_value,"0",,notes,"Pas locker en haut
+Inspirer en descendant
+Expirer en montant",,message_index,"17",,exercise_category,"30",,exercise_name,"7",,exercise_weight,"2.0",kg,weight_display_unit,"1",,duration_type,"29",,target_type,"2",,intensity,"2",,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,target_value,"0",,message_index,"18",,duration_type,"5",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"15",,target_value,"0",,notes,"Pas locker en haut
+Inspirer en descendant
+Expirer en montant",,message_index,"19",,exercise_category,"30",,exercise_name,"7",,exercise_weight,"4.0",kg,weight_display_unit,"1",,duration_type,"29",,target_type,"2",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"60.0",,target_value,"0",,message_index,"20",,duration_type,"0",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_step,"19",,repeat_steps,"3",,message_index,"21",,duration_type,"6",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"8",,target_value,"0",,notes,"Assis bien droit
+Bras en alternance
+Pas tendre le bras en bas
+Inspirer en descendant
+Expirer en montant",,message_index,"22",,exercise_category,"7",,exercise_name,"16",,exercise_weight,"2.0",kg,weight_display_unit,"1",,duration_type,"29",,target_type,"2",,intensity,"2",,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,target_value,"0",,message_index,"23",,duration_type,"5",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"15",,target_value,"0",,notes,"Assis bien droit
+Bras en alternance
+Pas tendre le bras en bas
+Inspirer en descendant
+Expirer en montant",,message_index,"24",,exercise_category,"7",,exercise_name,"16",,exercise_weight,"4.0",kg,weight_display_unit,"1",,duration_type,"29",,target_type,"2",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"60.0",,target_value,"0",,message_index,"25",,duration_type,"0",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_step,"24",,repeat_steps,"2",,message_index,"26",,duration_type,"6",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"10",,target_value,"0",,notes,"Inspirer en descendant
+Retenr respiration
+Expirer en fin de remontée",,message_index,"27",,exercise_category,"17",,exercise_name,"78",,duration_type,"29",,target_type,"2",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"90.0",,target_value,"0",,message_index,"28",,duration_type,"0",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_step,"27",,repeat_steps,"4",,message_index,"29",,duration_type,"6",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"30.0",,target_value,"0",,notes,"Bien droit",,message_index,"30",,exercise_category,"19",,exercise_name,"66",,duration_type,"0",,target_type,"2",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"30.0",,target_value,"0",,message_index,"31",,duration_type,"0",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"30.0",,target_value,"0",,notes,"Bien droit",,message_index,"32",,exercise_category,"19",,exercise_name,"66",,duration_type,"0",,target_type,"2",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"30.0",,target_value,"0",,message_index,"33",,duration_type,"0",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_step,"30",,repeat_steps,"2",,message_index,"34",,duration_type,"6",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"10",,target_value,"0",,notes,"Bras droit / gauche
+L-fly
+Coude proche du corps
+Lentement
+Inspirer en montant
+Expirer en descendant",,message_index,"35",,exercise_category,"25",,exercise_name,"22",,duration_type,"29",,target_type,"2",,intensity,"2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,target_value,"0",,message_index,"36",,duration_type,"5",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"20",,target_value,"0",,notes,"Bras droit / gauche
+
+L-fly
+Coude proche du corps
+Lentement
+Inspirer en montant
+Expirer en descendant",,message_index,"37",,exercise_category,"25",,exercise_name,"22",,exercise_weight,"2.0",kg,weight_display_unit,"1",,duration_type,"29",,target_type,"2",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,target_value,"0",,message_index,"38",,duration_type,"5",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_step,"35",,repeat_steps,"2",,message_index,"39",,duration_type,"6",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_reps,"20",,target_value,"0",,notes,"Bras gauche / droit
+
+L-fly
+Coude proche du corps
+Lentement
+Inspirer en montant
+Expirer en descendant",,message_index,"40",,exercise_category,"25",,exercise_name,"22",,exercise_weight,"2.0",kg,weight_display_unit,"1",,duration_type,"29",,target_type,"2",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"60.0",,target_value,"0",,message_index,"41",,duration_type,"0",,target_type,"2",,intensity,"1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_step,"40",,repeat_steps,"2",,message_index,"42",,duration_type,"6",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Definition,0,exercise_title,wkt_step_name,200,,message_index,1,,exercise_category,1,,exercise_name,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,exercise_title,wkt_step_name,"Wide-hands Push-up",,message_index,"0",,exercise_category,"22",,exercise_name,"69",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,exercise_title,wkt_step_name,"Side Plank",,message_index,"1",,exercise_category,"19",,exercise_name,"66",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,exercise_title,wkt_step_name,"Warm-up",,message_index,"2",,exercise_category,"31",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,exercise_title,wkt_step_name,"Incline Reverse Fly",,message_index,"3",,exercise_category,"9",,exercise_name,"11",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,exercise_title,wkt_step_name,"Dumbbell Lying Triceps Extension",,message_index,"4",,exercise_category,"30",,exercise_name,"7",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,exercise_title,wkt_step_name,"Dumbbell Hammer Curl",,message_index,"5",,exercise_category,"7",,exercise_name,"16",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,exercise_title,wkt_step_name,"Alternating Dumbbell Row",,message_index,"6",,exercise_category,"23",,exercise_name,"34",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,exercise_title,wkt_step_name,"Walking Lunge",,message_index,"7",,exercise_category,"17",,exercise_name,"78",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,exercise_title,wkt_step_name,"Lying External Rotation",,message_index,"8",,exercise_category,"25",,exercise_name,"22",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

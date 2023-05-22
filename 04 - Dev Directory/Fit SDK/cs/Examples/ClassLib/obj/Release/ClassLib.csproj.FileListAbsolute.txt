@@ -1,0 +1,7 @@
+D:\Desktop\Fit SDK\cs\Examples\ClassLib\obj\Release\ClassLib.csprojResolveAssemblyReference.cache
+D:\Desktop\Fit SDK\cs\Examples\ClassLib\obj\Release\Fit.dll
+D:\Desktop\Fit SDK\cs\Examples\ClassLib\Fit.xml
+D:\Desktop\Fit SDK\cs\Examples\ClassLib\obj\Release\Fit.pdb
+D:\Desktop\Fit SDK\cs\Fit.dll
+D:\Desktop\Fit SDK\cs\Fit.pdb
+D:\Desktop\Fit SDK\cs\Fit.xml

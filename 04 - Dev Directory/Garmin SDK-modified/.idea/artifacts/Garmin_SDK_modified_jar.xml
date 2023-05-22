@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Garmin SDK-modified:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Garmin_SDK_modified_jar</output-path>
+    <root id="archive" name="FitGenerator.jar">
+      <element id="module-output" name="Garmin SDK-modified" />
+    </root>
+  </artifact>
+</component>
