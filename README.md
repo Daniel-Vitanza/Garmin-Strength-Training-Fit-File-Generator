@@ -2,7 +2,7 @@
 
 
 ## Abstract
-In this git, you will find a Garmin strength training fit file generator to create your custom workout within an Excel file and therefore by-pass the limit of 50 steps from the Garmin Connect App/Web.
+In this git, you will find a Garmin strength training fit file generator to create your custom workout within an Excel file to by-pass the limit of 50 steps from the Garmin Connect App/Web.
 
 
 ## Introduction
