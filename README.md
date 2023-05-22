@@ -52,6 +52,8 @@ NB: If you have a different workouts, you can save them in different Excel files
 -No exercise animations because of custom workouts. It was already the case with Garmin Connect but you could edit a pre-made Garmin workout as a workaround. The workaround is obviously dead with my solution.  
 -You need to copy the fit file manually on your watch. I did not find any way enabled by Garmin to sync the files either wirelessly, via the app or via a simple copy/paste from a shell/VBA command.  
 -Generated workouts can't be linked to Garmin calendar.  
+-Only few exercises available at the moment. More to come depending on request and my own needs ;p  
+
 
 ## Revisions
 22/05/2023 Initial Release  
